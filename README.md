@@ -5,9 +5,9 @@ Nessa aplicação foi feito uma conexão ao banco de dados (MySQL), assim sendo 
 
 <img src="SellerDao.png"> 
 
-Referências
+Referências -
 Professor Nelio Alves
 
-Autor 
+Autor -
 Gabriel Kruger 
 
